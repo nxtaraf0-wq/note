@@ -1,0 +1,6 @@
+{
+  "name": "Folio Notepad",
+  "description": "A clean, distraction-free notepad for writing, organizing, and exporting notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
